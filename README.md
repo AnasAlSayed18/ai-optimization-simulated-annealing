@@ -1,6 +1,6 @@
 # AI Optimization Simulated Annealing 🧪
 
-<img src="https://github.com/AnasAlSayed18/img/blob/main/rastrigin-logo.png" width="250" />
+<img src="https://github.com/AnasAlSayed18/img/blob/7fb8ab510c22280e60194ee8d1f3e83db83cb4bc/AILogo1.png" width="250" />
 
 ## 📜 Overview
 This project uses the **Simulated Annealing (SA)** algorithm to optimize the **15-dimensional Rastrigin function**, a benchmark optimization problem with many local minima.
